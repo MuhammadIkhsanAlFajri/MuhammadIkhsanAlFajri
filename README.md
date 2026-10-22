@@ -3,7 +3,13 @@
   Replace YOUR_USERNAME with your GitHub username.
 -->
 
-![prolog](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM2Mmw3MHZjNjV3dG5kdmkzOHlyOWRjeWZqd2dienV5ZnhyZzUycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ispEc1253326c/giphy.gif)
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM2Mmw3MHZjNjV3dG5kdmkzOHlyOWRjeWZqd2dienV5ZnhyZzUycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ispEc1253326c/giphy.gif"
+    width="100%"
+    alt="Animated GIF"
+  />
+</p>
 
 <div align="center">
 
