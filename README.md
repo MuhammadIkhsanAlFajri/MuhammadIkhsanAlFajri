@@ -86,17 +86,6 @@ Tech: Flutter · Dart
   <img src="./github-metrics.svg" alt="GitHub Metrics: contribution calendar, languages, and achievements" width="100%"/>
 </p>
 
-📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadIkhsanAlFajri&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIkhsanAlFajri&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadIkhsanAlFajri&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
   <br><br>
 
